@@ -1,0 +1,22 @@
+{
+  "name": "git-test1",
+  "version": "1.0.0",
+  "description": "Moddle test",
+  "main": "index.js",
+  "scripts": {
+    "start": "moddle start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brombal/wm-test.git"
+  },
+  "author": "Alex Brombal",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@types/lodash-es": "^4.17.1",
+    "lodash-es": "^4.17.11",
+    "moddle": "github:brombal/moddle",
+    "moddle-cli": "github:brombal/moddle-cli"
+  },
+  "homepage": "https://github.com/brombal/wm-test#readme"
+}
