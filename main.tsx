@@ -4,5 +4,5 @@ import test from './test';
 test();
 
 export default () => (
-  <h1>Helsdfsfsdfsdfssfdsfsfsdfslo!</h1>
+  <h1>Hello world!</h1>
 );
